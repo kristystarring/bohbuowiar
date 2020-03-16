@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cheiwaehi.kangin.kr/sitemap.xml
